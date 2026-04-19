@@ -12,9 +12,13 @@ Note on Built-in Libraries: The SD.h and SPI.h libraries are included by default
 
 #include <uD.h>
 
+
 void setup() {
+  
   Serial.begin(115200);
+ 
   uD.begin(); // Initializes motors, sensors, and status systems
+
 }
 
 Running an Example: Open examples/FunctionalTest to verify your hardware. This sketch will automatically cycle through: 
