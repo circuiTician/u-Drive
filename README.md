@@ -27,3 +27,5 @@ The uD library is optimized for high-frequency control loops. For peak performan
 🛒 Purchase & Support: Interested in getting your own uD board? Visit our store to pick up the latest version:https://circuitician.com/u-drive-esp32-motor-driver.
 
 License: MIT License
+
+<img width="1129" height="1125" alt="new pinout" src="https://github.com/user-attachments/assets/44f5e86c-0265-4288-8731-44204e59e19e" />
