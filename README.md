@@ -36,3 +36,7 @@ The uD library is optimized for high-frequency control loops. For peak performan
 License: MIT License
 
 <img width="1129" height="1125" alt="new pinout" src="https://github.com/user-attachments/assets/44f5e86c-0265-4288-8731-44204e59e19e" />
+
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f4377a3b-22c9-46d6-bc0e-3fea2feae738" />
+
