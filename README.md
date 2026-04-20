@@ -31,7 +31,7 @@ Battery voltage reports.
 
 The uD library is optimized for high-frequency control loops. For peak performance in competitive tasks, ensure your main loop() function avoids blocking delay() calls, allowing the robot to make micro-adjustments in real-time.
 
-🛒 Purchase & Support: Interested in getting your own uD board? Visit our store to pick up the latest version:https://circuitician.com/u-drive-esp32-motor-driver.
+🛒 Purchase & Support: Interested in getting your own uD board? Visit our store to pick up the latest version: https://bit.ly/u-Drive_gh
 
 License: MIT License
 
