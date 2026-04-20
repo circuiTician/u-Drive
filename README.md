@@ -37,6 +37,5 @@ License: MIT License
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/44f5e86c-0265-4288-8731-44204e59e19e" width="48%" />
-  <img src="https://github.com/user-attachments/assets/f4377a3b-22c9-46d6-bc0e-3fea2feae738" width="48%" />
+  <img src="https://github.com/user-attachments/assets/f08cd312-8013-45ee-94ad-a3ac84a866d5" width="48%" />
 </p>
-
